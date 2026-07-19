@@ -118,7 +118,7 @@ The dataset was cleaned and transformed using **Power Query** by:
 ```
 Marketing-Campaign-Analysis/
 │
-├── Marketing Campaign Analysis.pbix
+├── Marketing Campaign.png
 ├── README.md
 ├── requirements.txt
 ├── dataset/
