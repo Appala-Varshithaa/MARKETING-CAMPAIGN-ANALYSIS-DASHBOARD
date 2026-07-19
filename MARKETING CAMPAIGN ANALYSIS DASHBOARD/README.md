@@ -122,10 +122,9 @@ Marketing-Campaign-Analysis/
 ├── README.md
 ├── requirements.txt
 ├── dataset/
-│   └── marketing_campaign.csv
-├── screenshots/
-│   └── dashboard.png
-└── .gitignore
+│   └── marketing campaign details 7.csv
+│   └── marketing campaign performance 7.csv
+│   └──region performance 7.csv
 ```
 
 ---
